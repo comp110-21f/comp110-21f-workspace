@@ -9,7 +9,7 @@
 exclude = .git
 max-line-length = 119
 docstring-convention = google
-ignore = W2,D100,D101,D102,D103,D104
+ignore = W2,D100,D101,D102,D103,D104,E501
 
 # Ignored Codes
 #
