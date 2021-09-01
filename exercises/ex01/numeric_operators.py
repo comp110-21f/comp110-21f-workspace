@@ -1,4 +1,4 @@
-"This program sets two variables equal to a number and then compares them using various numerical operators"
+"""This program sets two variables equal to a number and then compares them using various numerical operators."""
 
 __author__ = "730518679"
 

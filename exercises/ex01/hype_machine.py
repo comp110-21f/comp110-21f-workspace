@@ -1,4 +1,4 @@
-"This program asks for your name and then motivates you to succeed"
+"""This program asks for your name and then motivates you to succeed."""
 
 __author__ = "730518679"
 
