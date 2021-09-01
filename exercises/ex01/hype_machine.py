@@ -1,5 +1,11 @@
-# TODO: Write docstring here
+"This program asks for your name and then motivates you to succeed"
 
-# TODO: Initialize __author__ variable here
+__author__ = "730518679"
 
-# TODO: Implement your program logic here
+name: str = input("What is your name? ")
+
+print(name, "you are destined to do well!")
+
+print("I know that one day,", name, "will be famous.")
+
+print("Make sure you have a good day, okay", name, "?")
