@@ -2,11 +2,11 @@
 
 __author__ = "730518679"
 
-x = 11
-y = 6
+x: str = input("What is the first number? ")
+y: str = input("What is the second number? ")
 print("Left-hand side:", x)
 print("Right-hand side:", y)
-print("11 ** 6 is", x ** y)
-print("11 / 6 is", x / y)
-print("11 // 6 is", x // y)
-print("11 % 6 is", x % y)
+print(x, "**", y, "is")
+print(x, "/", y, "is")
+print(x, "//", y, "is")
+print(x, "%", y, "is")
