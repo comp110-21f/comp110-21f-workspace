@@ -4,7 +4,7 @@ __author__ = "730518679"
 
 x = 11
 y = 6
-print("x ** y is", x ** y)
-print("x / y", x / y)
-print("x // y", x // y)
-print("x % y", x % y)
+print("11 ** 6 is", x ** y)
+print("11 / 6 is", x / y)
+print("11 // 6 is", x // y)
+print("11 % 6 is", x % y)
